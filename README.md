@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad-12&label=Profile%20views&color=0e75b6&style=flat" alt="sharad-12" /> </p>
 
-- 🔭 I’m currently worked on **Faculty Recruitment Portal**
+- 🔭 I’m currently worked on **Healthcare Chatbot using Rasa Framework**
 
 - 👨‍💻 All of my projects are available at [https://sharad-12.github.io/portfolio/](https://sharad-12.github.io/portfolio/)
 
