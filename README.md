@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharad Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad-12&label=Profile%20views&color=0e75b6&style=flat" alt="sharad-12" /> </p>
 
