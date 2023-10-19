@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharad Kumar</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad-12&label=Profile%20views&color=0e75b6&style=flat" alt="sharad-12" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sharad-12.github.io/portfolio/](https://sharad-12.github.io/portfolio/)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Node.js,Express.js,MongoDB,Jquery,Bootstrap,Tailwind,Mysql,MongoDB**
+- 💬 Ask me about **HTML,CSS,Javascript,Node.js,Express.js,MongoDB,Jquery,Bootstrap,Tailwind,Mysql,MongoDB,React.js**
 
 - 📫 How to reach me **sharadkumr2208@gmail.com**
 
